@@ -155,14 +155,6 @@
             }
         ]
     },
-
-
-
-
-
-
-
-
     "PaperPals": {
         "Type": "Single",
         "Image": "rbxassetid://72400983395431",
@@ -202,15 +194,6 @@
             }
         ]
     },
-
-
-
-
-
-
-
-
-
     "Toy Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://78303154254743",
@@ -243,7 +226,7 @@
                 "Cooldown": 2.6
             },
             {
-                "Price": 1050,
+                "Price": 1000,
                 "Range": 28,
                 "Damage": 100,
                 "Cooldown": 2.5
@@ -346,15 +329,6 @@
             }
         ]
     },
-
-
-
-
-
-
-
-
-
     "Withered Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://122840170050016",
@@ -437,15 +411,6 @@
             }
         ]
     },
-
-
-
-
-
-
-
-
-
     "Withered Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://121140117517517",
@@ -485,14 +450,6 @@
             }
         ]
     },
-
-
-
-
-
-
-
-
     "Withered Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://129759774114658",
