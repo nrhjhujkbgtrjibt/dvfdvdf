@@ -154,5 +154,335 @@
                 "Cooldown": 1.5
             }
         ]
+    },
+
+
+
+
+
+
+
+
+    "PaperPals": {
+        "Type": "Single",
+        "Image": "rbxassetid://72400983395431",
+        "Rarity": "Rare",
+        "PlacePrice": 450,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 50,
+                "Cooldown": 3
+            },
+            {
+                "Price": 650,
+                "Range": 26,
+                "Damage": 50,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 900,
+                "Range": 28,
+                "Damage": 55,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 1250,
+                "Range": 30,
+                "Damage": 65,
+                "Cooldown": 2
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+    "Toy Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://78303154254743",
+        "Rarity": "Epic",
+        "PlacePrice": 850,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 55,
+                "Cooldown": 3
+            },
+            {
+                "Price": 600,
+                "Range": 24,
+                "Damage": 65,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 800,
+                "Range": 26,
+                "Damage": 80,
+                "Cooldown": 2.6
+            },
+            {
+                "Price": 1050,
+                "Range": 28,
+                "Damage": 100,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 1050,
+                "Range": 30,
+                "Damage": 120,
+                "Cooldown": 2.4
+            }
+        ]
+    },
+    "Toy Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://89853945292596",
+        "Rarity": "Epic",
+        "PlacePrice": 750,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 75,
+                "Cooldown": 3
+            },
+            {
+                "Price": 750,
+                "Range": 24,
+                "Damage": 65,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 1050,
+                "Range": 26,
+                "Damage": 80,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 1350,
+                "Range": 28,
+                "Damage": 100,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 1750,
+                "Range": 30,
+                "Damage": 120,
+                "Cooldown": 2.2
+            }
+        ]
+    },
+    "Withered Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://75748936875023",
+        "Rarity": "Epic",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 5
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 130,
+                "Cooldown": 4.8
+            },
+            {
+                "Price": 1200,
+                "Range": 19,
+                "Damage": 150,
+                "Cooldown": 4.3
+            },
+            {
+                "Price": 1600,
+                "Range": 21,
+                "Damage": 170,
+                "Cooldown": 4.2
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 2.2
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+    "Withered Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://122840170050016",
+        "Rarity": "Mythic",
+        "PlacePrice": 1100,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 90,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 1600,
+                "Range": 25,
+                "Damage": 130,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 2000,
+                "Range": 30,
+                "Damage": 130,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 2400,
+                "Range": 30,
+                "Damage": 130,
+                "Cooldown": 1.3
+            }
+        ]
+    },
+    "Fazcade": {
+        "Type": "Farm",
+        "Image": "rbxassetid://104418067731043",
+        "Rarity": "Mythic",
+        "PlacePrice": 450,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 3,
+                "Damage": 1,
+                "Cooldown": 4,
+                "Farm": 200
+            },
+            {
+                "Price": 900,
+                "Range": 3,
+                "Damage": 1,
+                "Cooldown": 4,
+                "Farm": 450
+            },
+            {
+                "Price": 2000,
+                "Range": 3,
+                "Damage": 1,
+                "Cooldown": 4,
+                "Farm": 1000
+            },
+            {
+                "Price": 3250,
+                "Range": 3,
+                "Damage": 1,
+                "Cooldown": 4,
+                "Farm": 1600
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+    "Withered Golden Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://121140117517517",
+        "Rarity": "Nightmare",
+        "PlacePrice": 2900,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 26,
+                "Damage": 850,
+                "Cooldown": 10
+            },
+            {
+                "Price": 2000,
+                "Range": 26,
+                "Damage": 975,
+                "Cooldown": 8
+            },
+            {
+                "Price": 3000,
+                "Range": 28,
+                "Damage": 1100,
+                "Cooldown": 6
+            },
+            {
+                "Price": 5000,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 5
+            }
+        ]
     }
 }
