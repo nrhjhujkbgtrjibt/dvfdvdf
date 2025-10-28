@@ -37,5 +37,122 @@
                 "Cooldown": 2
             }
         ]
+    },
+    "Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://108231225322877",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 25,
+                "Cooldown": 2
+            },
+            {
+                "Price": 500,
+                "Range": 18,
+                "Damage": 30,
+                "Cooldown": 2
+            },
+            {
+                "Price": 900,
+                "Range": 22,
+                "Damage": 38,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1350,
+                "Range": 25,
+                "Damage": 40,
+                "Cooldown": 1.3
+            }
+        ]
+    },
+    "Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://132275351050605",
+        "Rarity": "Uncommon",
+        "PlacePrice": 375,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 25,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 450,
+                "Range": 27.5,
+                "Damage": 30,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 30,
+                "Damage": 30,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1200,
+                "Range": 35,
+                "Damage": 35,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://97554562118129",
+        "Rarity": "Uncommon",
+        "PlacePrice": 350,
+        "Max": 5,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 25,
+                "Cooldown": 2
+            },
+            {
+                "Price": 500,
+                "Range": 11,
+                "Damage": 30,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 13,
+                "Damage": 38,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 50,
+                "Cooldown": 1.5
+            }
+        ]
     }
 }
