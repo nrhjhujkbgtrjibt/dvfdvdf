@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pack1",
+    "name": "Dark Fantasy Pack",
+    "image": "https://cdn.discordapp.com/attachments/1477929690189660253/1477931078558679112/4e8fe3ca5f857694.png?ex=69a68e13&is=69a53c93&hm=729fe6bd33dca3c455c90c6667f23d68bdbc92b68e20fe68478b02268d36fc75&",
+    "downloadUrl": "https://example.com/dark-fantasy.zip",
+    "requiredPlans": []
+  },
+  {
+    "id": "pack2",
+    "name": "Ultra HD Textures",
+    "image": "https://cdn.discordapp.com/attachments/1477929690189660253/1477931078558679112/4e8fe3ca5f857694.png?ex=69a68e13&is=69a53c93&hm=729fe6bd33dca3c455c90c6667f23d68bdbc92b68e20fe68478b02268d36fc75&",
+    "downloadUrl": "https://example.com/ultra-hd.zip",
+    "requiredPlans": ["basic"]
+  }
+]
