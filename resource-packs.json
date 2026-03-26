@@ -8,9 +8,9 @@
   },
   {
     "id": "pack2",
-    "name": "Ultra HD Textures",
-    "image": "https://cdn.discordapp.com/attachments/1477929690189660253/1477931078558679112/4e8fe3ca5f857694.png?ex=69a68e13&is=69a53c93&hm=729fe6bd33dca3c455c90c6667f23d68bdbc92b68e20fe68478b02268d36fc75&",
-    "downloadUrl": "https://example.com/ultra-hd.zip",
+    "name": "Enchantment Outline",
+    "image": "https://cdn.discordapp.com/attachments/1458543331138212004/1486824377264898079/a5114b5f8e4fd802.png?ex=69c6e89b&is=69c5971b&hm=e220c636909e23030a54130f5c683adbfd0d4e3ed105945576805a7d05b06608&",
+    "downloadUrl": "https://minecraft-inside.ru/download/470278/",
     "requiredPlans": ["extreme"]
   }
 ]
