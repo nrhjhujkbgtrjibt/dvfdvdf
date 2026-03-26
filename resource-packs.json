@@ -1,9 +1,9 @@
 [
   {
     "id": "pack1",
-    "name": "Dark Fantasy Pack",
-    "image": "https://cdn.discordapp.com/attachments/1477929690189660253/1477931078558679112/4e8fe3ca5f857694.png?ex=69a68e13&is=69a53c93&hm=729fe6bd33dca3c455c90c6667f23d68bdbc92b68e20fe68478b02268d36fc75&",
-    "downloadUrl": "https://example.com/dark-fantasy.zip",
+    "name": "Crystal PVP LT3",
+    "image": "https://cdn.discordapp.com/attachments/1458543331138212004/1486822442054717472/8f4d4f5c8e3490cf.png?ex=69c6e6ce&is=69c5954e&hm=9bd486e9d31f5c25e276d66520396738c0f223efc65ae9bf29402cd9d581d3c5&",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/hli7w1b4857ohagzzlj2f/Crystal-PvP-LT3-Essentials-v23.zip?rlkey=ikz78rolevtxlzhmwhe3e0boi&st=ntx4874s&dl=1",
     "requiredPlans": []
   },
   {
@@ -11,6 +11,6 @@
     "name": "Ultra HD Textures",
     "image": "https://cdn.discordapp.com/attachments/1477929690189660253/1477931078558679112/4e8fe3ca5f857694.png?ex=69a68e13&is=69a53c93&hm=729fe6bd33dca3c455c90c6667f23d68bdbc92b68e20fe68478b02268d36fc75&",
     "downloadUrl": "https://example.com/ultra-hd.zip",
-    "requiredPlans": ["basic"]
+    "requiredPlans": ["extreme"]
   }
 ]
