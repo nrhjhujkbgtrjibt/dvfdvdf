@@ -12,5 +12,12 @@
     "image": "https://cdn.discordapp.com/attachments/1458543331138212004/1486824377264898079/a5114b5f8e4fd802.png?ex=69c6e89b&is=69c5971b&hm=e220c636909e23030a54130f5c683adbfd0d4e3ed105945576805a7d05b06608&",
     "downloadUrl": "https://minecraft-inside.ru/download/470278/",
     "requiredPlans": ["extreme"]
+  },
+  {
+    "id": "pack3",
+    "name": "RPG GUI",
+    "image": "https://cdn.discordapp.com/attachments/1458543331138212004/1486825605403115581/3a2e42d6d7eeb451.png?ex=69c6e9c0&is=69c59840&hm=9811fbb5f7582b5f59a6a584d46062dadd8920a00180f6b4af2f0738e17a84d5&",
+    "downloadUrl": "https://minecraft-inside.ru/download/436659/",
+    "requiredPlans": []
   }
 ]
