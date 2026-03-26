@@ -26,5 +26,12 @@
     "image": "https://cdn.discordapp.com/attachments/1458543331138212004/1486827729994252347/3b095bc2671510b6.png?ex=69c6ebba&is=69c59a3a&hm=1e6ff4eed297bbbe4c447c25f6f7bfcfbeb97c2080c66ed1e720bd676ef69035&",
     "downloadUrl": "https://minecraft-inside.ru/download/457685/",
     "requiredPlans": ["extreme"]
+  },
+  {
+    "id": "pack5",
+    "name": "Mini Tools Vanilla",
+    "image": "https://cdn.discordapp.com/attachments/1458543331138212004/1486827967295258755/image.png?ex=69c6ebf3&is=69c59a73&hm=07277879b7fb57f009d67f155b651cb39016184eb37d0f55af029ba7ff63295f&",
+    "downloadUrl": "https://minecraft-inside.ru/download/459966/",
+    "requiredPlans": []
   }
 ]
