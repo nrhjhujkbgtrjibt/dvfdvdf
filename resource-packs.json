@@ -19,5 +19,12 @@
     "image": "https://cdn.discordapp.com/attachments/1458543331138212004/1486825605403115581/3a2e42d6d7eeb451.png?ex=69c6e9c0&is=69c59840&hm=9811fbb5f7582b5f59a6a584d46062dadd8920a00180f6b4af2f0738e17a84d5&",
     "downloadUrl": "https://minecraft-inside.ru/download/436659/",
     "requiredPlans": []
+  },
+  {
+    "id": "pack4",
+    "name": "SoulTech Hearts",
+    "image": "https://cdn.discordapp.com/attachments/1458543331138212004/1486827729994252347/3b095bc2671510b6.png?ex=69c6ebba&is=69c59a3a&hm=1e6ff4eed297bbbe4c447c25f6f7bfcfbeb97c2080c66ed1e720bd676ef69035&",
+    "downloadUrl": "https://minecraft-inside.ru/download/457685/",
+    "requiredPlans": ["extreme"]
   }
 ]
